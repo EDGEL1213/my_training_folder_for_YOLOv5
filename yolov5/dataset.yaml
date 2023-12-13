@@ -1,0 +1,7 @@
+train: ../dataset/train/images
+val: ../dataset/valid/images
+test: ../dataset/test/images
+
+nc: 86
+names: ['A', 'B', 'BA', 'BE', 'BI', 'BO', 'BU', 'D', 'DA', 'DE', 'DI', 'DO', 'DU', 'E', 'G', 'GA', 'GI', 'GO', 'GU', 'HA', 'HE', 'HI', 'HO', 'HU', 'I', 'K', 'KA', 'KI', 'KO', 'KU', 'L', 'LA', 'LE', 'LI', 'LO', 'LU', 'M', 'MA', 'ME', 'MI', 'MO', 'MU', 'N', 'NA', 'NG', 'NGA', 'NGI', 'NGO', 'NGU', 'NI', 'NO', 'NU', 'O', 'P', 'PA', 'PE', 'PI', 'PO', 'PU', 'R', 'RA', 'RI', 'RO', 'RU', 'S', 'SA', 'SE', 'SI', 'SO', 'SU', 'T', 'TA', 'TE', 'TI', 'TO', 'TU', 'U', 'W', 'WA', 'WE', 'WI', 'Y', 'YA', 'YI', 'YO', 'YU']
+
